@@ -4,4 +4,7 @@ title: Contact
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+저에 대해 궁금하다면 아래로 이메일 보내주세요!
+
+## Email
+denovokjh@snu.ac.kr
